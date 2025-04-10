@@ -12,6 +12,12 @@
 
 </div >
 
+<h3 align="center">🎨 Fun Fact: I can draw too!</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/I6VPz1YmO8jte/giphy.gif" width="200" alt="Cat drawing gif"/>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushkxa/anushkxa/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anushkxa/anushkxa/output/pacman-contribution-graph.svg">
