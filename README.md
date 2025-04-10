@@ -59,9 +59,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/anushkxa/count.svg?"  />
-</div>
+
 
 ###
 
