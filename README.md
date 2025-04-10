@@ -3,7 +3,6 @@
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-<img src="https://raw.githubusercontent.com/anushkxa/anushkxa/output/snake.svg" alt="Snake animation" />
 
 
 <picture>
