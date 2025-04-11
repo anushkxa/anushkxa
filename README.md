@@ -1,5 +1,14 @@
 <h3 align="center">Anushka Chauhan</h3>
+<div align="center">
+  
+🎓 I'm a B.Tech student specializing in **Artificial Intelligence & Data Science** at **Vivekananda Institute of Professional Studies (VIPS-TC)**.  
+💡 Passionate about solving real-world problems through **AI, ML, and Data-Driven Solutions**.
 
+### 🚀 What I Do
+ 📊 Exploring **Data Science**, **Machine Learning**, and **Deep Learning**<br>
+ 💻 Learning full-stack development with the **MERN stack**<br>
+  🧠 Diving into **DSA in Java** to improve my problem-solving skills
+</div>
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
