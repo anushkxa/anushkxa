@@ -1,7 +1,7 @@
 <h3 align="center">Anushka Chauhan</h3>
 <div align="center">
   
-🎓 I'm a B.Tech student specializing in **Artificial Intelligence & Data Science** at **Vivekananda Institute of Professional Studies (VIPS-TC)**.  
+🎓 I'm a B.Tech student specializing in **Artificial Intelligence & Data Science** .  
 💡 Passionate about solving real-world problems through **AI, ML, and Data-Driven Solutions**.
 
 ### 🚀 What I Do
