@@ -10,7 +10,7 @@
   🧠 Diving into **DSA in Java** to improve my problem-solving skills
 </div>
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://i.pinimg.com/736x/48/ee/89/48ee89dc044d3be3b90994a97c92dfba.jpg"  />
 </div>
 
 <!--Tech Stack-->
